@@ -11,12 +11,12 @@ This is a Python package designed to help with math homework, explore basic mach
 
 * **`basic`:**
     * `add(x, y)`: Adds two numbers.
-    *  (Add more basic math functions here as you implement them)
+
 
 * **`geometry`:**
     * `area_of_rectangle(length, breadth)`: Calculates the area of a rectangle.
     * `area_of_circle(radius)`: Calculates the area of a circle.
-    * (Add more geometry functions here as you implement them)
+  
 
 * **`linear_algebra`:**
     * `dot_product(v1, v2)`: Calculates the dot product of two vectors.
