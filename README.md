@@ -39,7 +39,7 @@ This is a Python package designed to help with math homework, explore basic mach
     * `knn_classify(k, data, labels, new_point)`: Classifies a new point using KNN.
     * `gradient_descent(X, y, learning_rate, num_iterations)`: Performs gradient descent for linear regression.
     * `normalize_data(data)`: Normalizes data to have zero mean and unit variance.
-    * (Add more machine learning functions and algorithms here as you implement them)
+   
 
 * **`statistics`:**
     * `mean(data)`: Calculates the mean of a dataset.
@@ -47,7 +47,7 @@ This is a Python package designed to help with math homework, explore basic mach
     * `mode(data)`: Calculates the mode(s) of a dataset.
     * `variance(data)`: Calculates the variance of a dataset.
     * `standard_deviation(data)`: Calculates the standard deviation of a dataset.
-    * (Add more statistics functions here as you implement them)
+ 
 
 
 ## Installation
