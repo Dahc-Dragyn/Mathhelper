@@ -1,5 +1,6 @@
 # Mathhelper
 Will do most of your math homework
+def gradient_descent is not working right. Working on it.
 # mymath: A Python Package for Math Homework and More
 
 This is a Python package designed to help with math homework, explore basic machine learning concepts, and provide a foundation for building more complex mathematical applications.
